@@ -1,3 +1,4 @@
+import streamlit as st
 # 比較運算子，只能同樣型作比較
 print(1==1)   #True
 print(1!=1)   #False
