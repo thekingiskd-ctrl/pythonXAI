@@ -3481,7 +3481,7 @@ col1, col2 = st.columns(2)
 
 
     import streamlit as st
-with st.expander("Class 1 課程筆記"):
+with st.expander("Class 4 課程筆記"):
     st.write(
         """
 # 🐍 Python 課堂筆記整理：Streamlit、迴圈、隨機數與字典
