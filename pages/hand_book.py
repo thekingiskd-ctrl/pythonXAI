@@ -4717,7 +4717,7 @@ columns input state while break random  dict
     )
 
     import streamlit as st
-with st.expander("Class 4 課程筆記"):
+with st.expander("Class 5 課程筆記"):
     st.write(
         """
 可以！如果你的意思是希望我把剛才的內容整理成**更有條理、比較容易抄筆記／整理重點的版本**，我建議用「指令 → 功能 → 簡單例子」的方式。
